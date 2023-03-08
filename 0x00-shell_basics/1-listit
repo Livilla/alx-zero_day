@@ -1,13 +1,1 @@
-#!/bin/bash
-pwd
-## contents list of your current directory
-* Applications
-* Documents
-* Dropbox
-* Movies
-* Pictures
-* Desktop
-* Downloads
-* Library
-* Music
-* Public
+1-listit
